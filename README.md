@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">Software engineer passionate about improving the quality and speed of the web. @paypal</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaeldurfey" alt="michaeldurfey" /> </p>
 
 - 🔭 I’m currently working on [Kitten Pop, a game with cats](https://www.kittenpop.net/)
 
