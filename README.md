@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available here on github and at [https://www.linkedin.com/in/michael-durfey/](https://www.linkedin.com/in/michael-durfey/)
 
-- 📝 I regulary write articles on [https://www.michaeldurfey.com](https://www.michaeldurfey.com)
+- 📝 I rarely write articles on [https://www.michaeldurfey.com](https://www.michaeldurfey.com)
 
 - 💬 Ask me about **Web performance, react, node, webpack**
 
