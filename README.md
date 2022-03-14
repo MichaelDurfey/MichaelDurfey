@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">Software engineer passionate about improving the quality and speed of the web. @paypal</h3>
+<h3 align="center">Software engineer @paypal</h3>
 
 - 👨‍💻 All of my projects are available here on github and at [https://www.linkedin.com/in/michael-durfey/](https://www.linkedin.com/in/michael-durfey/)
 
