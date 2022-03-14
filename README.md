@@ -5,7 +5,7 @@
 
 - 📝 I rarely write articles on [https://www.michaeldurfey.com](https://www.michaeldurfey.com)
 
-- 💬 Ask me about **Web performance, react, node, webpack**
+- 💬 Ask me about **Web performance, Micro Frontends, react, node, webpack**
 
 - 📫 How to reach me **contact@michaeldurfey.com**
 
